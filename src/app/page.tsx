@@ -1,3 +1,4 @@
+'use client';
 import Game from '../components/Game';
 import VoiceChat from '../components/VoiceChat';
 
